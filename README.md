@@ -1,6 +1,6 @@
 # stocks-analysis
 # Challenge
-<br>File link: https://github.com/LISASHAH/stocks-analysis/blob/master/green_stocks_challenge.xlsm
+<br>File uploaded: https://github.com/LISASHAH/stocks-analysis/blob/master/green_stocks_challenge.xlsm
 
 <br>Analysis : Overall Stock market seems to be going down from 2017 as compared to 2018. 
 <br>There were only two stocks in the chart showing growth in return for 2018. <B>RUN </B>had the hightest growth of 84% in 2018. 
