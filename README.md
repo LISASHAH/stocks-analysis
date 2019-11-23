@@ -1,5 +1,5 @@
-# stocks-analysis
-# Challenge
+# Stocks-Analysis
+### Challenge
 <br>File uploaded: https://github.com/LISASHAH/stocks-analysis/blob/master/green_stocks_challenge.xlsm
 
 <br>Analysis : Overall Stock market seems to be going down from 2017 as compared to 2018. 
